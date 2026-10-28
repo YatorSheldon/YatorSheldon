@@ -31,3 +31,7 @@ model quality gate. Catches 83% of fraud dollars on the held-out test period and
 - 📚 Studying AI at Deakin University
 - 🔨 Extending FraudGuard with graph features to catch organised fraud rings
 - 🌱 Learning more about LLM applications and MLOps
+
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/sheldon-kiprono-b97661281/)
