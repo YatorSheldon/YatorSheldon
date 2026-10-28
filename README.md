@@ -6,7 +6,7 @@ and models that are tested, deployed and monitored.
 
 🎯 **Looking for AI / ML / data internships for 2027.**
 
-### Featured project
+### Featured projects
 
 **[FraudGuard: card transaction fraud detection](https://github.com/YatorSheldon/transaction-fraud-detection)**
 End-to-end fraud detection on 438k simulated transactions. Leakage-free behavioural features, time-based
@@ -14,6 +14,13 @@ evaluation, cost-optimised alert thresholds, a FastAPI service, a Gradio demo, a
 model quality gate. Catches 83% of fraud dollars on the held-out test period and cuts simulated fraud cost by 79%.
 
 `Python` `scikit-learn` `pandas` `FastAPI` `Gradio` `pytest` `Docker` `Jenkins` `GitHub Actions`
+
+**[ShiftRight: workplace-rights answers with receipts](https://github.com/YatorSheldon/shiftright)**
+A RAG assistant that answers Australian workplace-rights questions (casual pay, unpaid trials, leave) from
+official guidance and cites the page behind every sentence. BM25 + optional embeddings, citation and refusal
+guardrails, local Ollama or Claude/OpenAI, and a weekly CI evaluation against the live pages.
+
+`Python` `RAG` `LLMs` `Ollama` `BM25` `FastAPI` `Gradio` `pytest` `GitHub Actions`
 
 ### Also here
 
@@ -24,13 +31,14 @@ model quality gate. Catches 83% of fraud dollars on the held-out test period and
 
 - **Languages:** Python
 - **ML & data:** scikit-learn, pandas, NumPy, Matplotlib
+- **LLMs:** retrieval-augmented generation, Ollama, Claude and OpenAI APIs, evaluation
 - **Engineering:** Git, Docker, Jenkins, GitHub Actions, FastAPI, pytest
 
 ### Currently
 
 - 📚 Studying AI at Deakin University
 - 🔨 Extending FraudGuard with graph features to catch organised fraud rings
-- 🌱 Learning more about LLM applications and MLOps
+- 🌱 Improving ShiftRight's retrieval with hybrid search and a larger evaluation set
 
 ### Get in touch
 
