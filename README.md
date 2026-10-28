@@ -15,12 +15,13 @@ model quality gate. Catches 83% of fraud dollars on the held-out test period and
 
 `Python` `scikit-learn` `pandas` `FastAPI` `Gradio` `pytest` `Docker` `Jenkins` `GitHub Actions`
 
-**[ShiftRight: workplace-rights answers with receipts](https://github.com/YatorSheldon/shiftright)**
-A RAG assistant that answers Australian workplace-rights questions (casual pay, unpaid trials, leave) from
-official guidance and cites the page behind every sentence. BM25 + optional embeddings, citation and refusal
-guardrails, local Ollama or Claude/OpenAI, and a weekly CI evaluation against the live pages.
+**[ShiftRight: workplace law, explained with receipts](https://github.com/YatorSheldon/shiftright)**
+A RAG assistant that answers Australian workplace questions from the Fair Work Act and Regulations in plain
+English, citing the exact section behind every sentence. Heading-weighted BM25 fused with dense embeddings,
+citation and refusal guardrails, local Ollama or Claude/OpenAI. On a held-out question set it ranks the right
+section first 53% of the time and refuses 100% of off-topic questions with no false refusals.
 
-`Python` `RAG` `LLMs` `Ollama` `BM25` `FastAPI` `Gradio` `pytest` `GitHub Actions`
+`Python` `RAG` `LLMs` `BM25` `Embeddings` `Ollama` `FastAPI` `Gradio` `pytest` `GitHub Actions`
 
 ### Also here
 
