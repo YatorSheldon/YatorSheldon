@@ -1,4 +1,4 @@
-## Hi, I'm Yator Sheldon 👋
+## Hi, I'm Sheldon Kiprono 👋
 
 I'm a **Bachelor of Artificial Intelligence** student at **Deakin University** in Melbourne, interested in
 building machine learning systems that work outside a notebook: clean data pipelines, honest evaluation,
