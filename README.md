@@ -22,9 +22,9 @@ model quality gate. Catches 83% of fraud dollars on the held-out test period and
 
 ### Toolkit
 
-**Languages:** Python
-**ML & data:** scikit-learn, pandas, NumPy, Matplotlib
-**Engineering:** Git, Docker, Jenkins, GitHub Actions, FastAPI, pytest
+- **Languages:** Python
+- **ML & data:** scikit-learn, pandas, NumPy, Matplotlib
+- **Engineering:** Git, Docker, Jenkins, GitHub Actions, FastAPI, pytest
 
 ### Currently
 
